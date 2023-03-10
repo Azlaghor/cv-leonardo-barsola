@@ -1,0 +1,108 @@
+hr{
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.cv-bg{
+    margin: 5%;
+    background-color: rgb(245, 245, 245);
+    border-radius: 25px;
+}
+
+.cv-title{
+    font-weight: 900;
+    padding-left: 2.5%;
+    padding-top: 1.5%;
+    color: #083756;
+}
+
+.cv-tagline{
+    font-weight: 500;
+    padding-left: 2.5%;
+}
+
+.cv-list{
+    padding-top: 0%;
+    padding-left: 4.5%;
+}
+
+.cv-contact{
+    padding-top: 2%;
+    padding-left: 4.5%;
+}
+
+.cv-item{
+    list-style-type: none;
+    font-weight: 700;
+    color:rgb(130, 130, 130)
+}
+
+.cv-presentation{
+    font-weight: 300;
+    padding-left: 3.8%;
+    padding-right: 3.8%;
+}
+
+.cv-subtitle{
+    color: #083756;
+    font-weight: 700;
+    padding-left: 4%;
+}
+
+.cv-article-title{
+    padding-left: 4%;
+}
+
+.cv-article-subtitle{
+    padding-left: 5%;
+    padding-right: 2%;
+    margin-bottom: 0;
+    color: rgb(130, 130, 130);;
+}
+
+.cv-article-content{
+    padding-left: 4%;
+    margin-top: 0;
+}
+
+#bnt-cursos-recibidos{
+    background-color: #083756;
+    padding: 1%;
+}
+
+#bnt-cursos-recibidos:hover{
+    background-color: #10517c;
+    padding: 1.5%;
+}
+
+#list-cursos-recibidos{
+    padding-left: 0;
+    list-style-type: none;
+    font-weight: 700;
+    /* text-align: left !important; */
+    /* margin-left: 35%; */
+}
+
+.cv-aside-title{
+    color: #083756;
+    font-weight: bold;
+}
+
+.cv-aside-list{
+    list-style-type: none;
+    padding-left: 1%;
+}
+
+.cv-bars{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.cv-aside{
+    padding-left: 5%;
+    padding-right: 5%;
+}
